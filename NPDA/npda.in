@@ -1,0 +1,13 @@
+q1 q2 q3 q4
+0 1
+0 1
+q1
+q1 q4
+0 0 0 1 1 1
+q1 e e q2 $
+q2 0 e q2 0
+q2 1 e q2 1
+q2 e e q3 e
+q3 0 0 q3 e
+q3 1 1 q3 e
+q3 e $ q4 e
